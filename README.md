@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Filamu-Movie-Recommendation-System
 ![movie-recommendation](https://github.com/MwangiWambugu/Movie-Recommendation-Systems/assets/111336076/296a1b82-07cf-4862-940b-38486eb32d52)
 
 This repository contains the code and resources used to build a recommendation system model. This model will be used to predict which genre and movies and likely to recieve high number of viewers based on the data provided which consists of different users and movies of various genres. The model will also be trained using the ratings data of different movies and genres.
